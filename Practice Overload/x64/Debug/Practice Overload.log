@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Leonid\Projects\Practice Overload\Practice Overload\main.cpp(38,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Leonid\Projects\Practice Overload\Practice Overload\main.cpp(47,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Practice Overload.vcxproj -> C:\Users\Leonid\Projects\Practice Overload\x64\Debug\Practice Overload.exe
